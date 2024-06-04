@@ -1,0 +1,3 @@
+Calificación: 2.2/3
+- Tenía que crear su propio código para contar las cifras
+- Use el archivo .gitignore para evitar subir los archivos .exe
